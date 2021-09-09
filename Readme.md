@@ -1,6 +1,11 @@
 ### Hey I'm Kyle,🤓 Currently working on becoming a full stack software developer through code works! I went to school for electrical engineering decided it wasn't exactly what I wanted. I have always had a passion for anything technology related. I love gaming and building Pc's. 
 
-
+### About Me
+ - 🎮 &nbsp;I am a passionate gamer. 
+ - 🛠 &nbsp; Enjoy building custom PC's
+ - 🐶 &nbsp;I have a dog named Rosco
+ - 🐤 &nbsp; I have 2 Indian ringneck birds named Tatl and Tael
+ - 💪 &nbsp; I enjoy working out
 
 ### How to reach out to me
 - 📩 &nbsp;Hanna.Kyle@live.com 
