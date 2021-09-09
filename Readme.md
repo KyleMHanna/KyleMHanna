@@ -16,6 +16,8 @@
 - ⚡ Fun personality Quiz: <a href="https://www.16personalities.com/profiles/6d6a93404424f"> 16PersonalitiesTest </a>
 
 [![Kyle's's GitHub stats](https://github-readme-stats.vercel.app/api?username=KyleMHanna)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KyleMHanna&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KyleMHanna&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
