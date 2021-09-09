@@ -14,3 +14,5 @@
 - 🔭 I’m currently working on Becoming a full stack web developer
 - 🌱 I’m currently learning Asynchronus Code
 - ⚡ Fun personality Quiz: <a href="https://www.16personalities.com/profiles/6d6a93404424f"> 16PersonalitiesTest </a>
+
+[![Kyle's's GitHub stats](https://github-readme-stats.vercel.app/api?username=KyleMHanna)](https://github.com/anuraghazra/github-readme-stats)
