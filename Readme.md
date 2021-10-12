@@ -1,4 +1,4 @@
-### Hey I'm Kyle,🤓 Currently working my software development skills to make a career out of it one day! I went to school for electrical engineering decided it wasn't exactly what I wanted. I have always had a passion for anything technology related. I love gaming and building Pc's. specializing in ▶ JavaScript ES6 ▶ Web API / HTTP ▶ JS Frameworks, ▶NodeJs ▶ C# ▶ SQL ▶ Scrum & more to come! 
+### Hey I'm Kyle,🤓 Currently working my software development skills to make a career out of it one day! I went to school for electrical engineering decided it wasn't exactly what I wanted. I have always had a passion for anything technology related. I love gaming and building Pc's. Specializing in ▶ JavaScript ES6 ▶ Web API / HTTP ▶ JS Frameworks, ▶NodeJs ▶ C# ▶ SQL ▶ Scrum & more to come! 
 
 ### About Me
  - 🎮 &nbsp;I am a passionate gamer
