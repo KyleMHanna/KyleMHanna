@@ -1,4 +1,4 @@
-### Hey I'm Kyle,🤓 Currently working my software development skills to get a job in that feild! I went to school for electrical engineering decided it wasn't exactly what I wanted. I have always had a passion for anything technology related. I love gaming and building Pc's. 
+### Hey I'm Kyle,🤓 Currently working my software development skills to make a career out of it one day! I went to school for electrical engineering decided it wasn't exactly what I wanted. I have always had a passion for anything technology related. I love gaming and building Pc's. 
 
 ### About Me
  - 🎮 &nbsp;I am a passionate gamer
